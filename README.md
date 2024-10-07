@@ -11,6 +11,7 @@ Esse é um Web Site responsivo de uma lista de compras a finalidade de colocar e
 
 ## 🛒 Lista de compras 
 ![img_lista-compras](https://github.com/user-attachments/assets/a0e9c94c-3966-4280-812f-aa90f6ca1189)
+[Deploy Lista de compras](https://arthurscarpin.github.io/lista-compras/)
 
 # 🍉 Técnicas de design
 - HTML semântico;
